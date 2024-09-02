@@ -1,0 +1,4 @@
+package-lock.json
+.vscode/launch.json
+bin/www
+node_modules
