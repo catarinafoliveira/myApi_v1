@@ -1,7 +1,13 @@
 # MyApi (v1)
 A REST API to obtaininteract with information regarding persons, drivers and their cars.
 
-
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 #### Persons routes:
 | Type     | Route        | Description         |
